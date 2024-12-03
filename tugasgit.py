@@ -79,4 +79,4 @@ for k,p in data_panen.items():
     else : 
         print(f"{p['nama_lokasi']} dalam kondisi yang sangat aman")
 
-print("Tugas Git---")
+print("Tugas Git 000000")
