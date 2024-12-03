@@ -78,3 +78,5 @@ for k,p in data_panen.items():
         print(f"{p['nama_lokasi']} memerlukan perhatian khusus")
     else : 
         print(f"{p['nama_lokasi']} dalam kondisi yang sangat baik dan aman")
+
+print("Tugas Git tentang Dictionary")
