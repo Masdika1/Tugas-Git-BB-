@@ -77,4 +77,4 @@ for k,p in data_panen.items():
     if hs_padi > 1300 or hs_jagung > 800 :
         print(f"{p['nama_lokasi']} memerlukan perhatian khusus")
     else : 
-        print(f"{p['nama_lokasi']} dalam kondisi yang baik")
+        print(f"{p['nama_lokasi']} dalam kondisi yang sangat baik dan aman")
